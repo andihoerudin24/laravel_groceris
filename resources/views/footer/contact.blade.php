@@ -52,10 +52,10 @@
                             </h3>
 
                             <p class="text-light">
-                                Jl. Petani No. 159, Cibabat<br>
-                                Cimahi Utara<br>
-                                Kota Cimahi<br>
-                                Jawa Barat 40513
+                                Jl. lingkungan Ciriung No. 45, Cibinong<br>
+                                Cibinong Bogor<br>
+                                Kabupaten Bogor<br>
+                                Jawa Barat 16918
                             </p>
 
                             <p class="text-light">
@@ -68,7 +68,7 @@
             </div>
         </div>
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.97915747782!2d107.58270291427688!3d-6.893096195019089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e67b57d420db%3A0x4dd071fcb9157e80!2sBTC+Fashion+Mall!5e0!3m2!1sen!2sid!4v1522964715022" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15857.455702464347!2d106.86332299182843!3d-6.475504686035136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e9ff55193bd5%3A0x904615e1b7d08c1c!2sSDN+Ciriung+06!5e0!3m2!1sid!2sid!4v1541060752898"  width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen></iframe>
     </section>
 </div>
 @endsection
